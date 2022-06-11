@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main-bg{
+  height:300px;
+  background-size: cover;
+  background-position: center;
+}
+.loading-div{
+  padding:20px;
+  height : 10px;
+  background-color: aqua;
+}

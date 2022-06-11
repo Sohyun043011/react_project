@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.yellow-box{
+  padding:20px;
+  height:300px;
+  background-color: yellow;
+}
+.start{
+  opacity : 0;
+}
+.end{
+  opacity : 1;
+  transition: opacity,0.5s;
+}
